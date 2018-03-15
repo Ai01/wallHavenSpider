@@ -1,0 +1,15 @@
+# node_modules
+
+node_modules/*
+
+# idea
+
+idea/*
+
+# pictures
+
+pictures/**
+
+# macOs
+
+.DS_Store
